@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<command>
+      <execute>Write-Verbose "$(Get-Date -Format s) Executing some PScode..." -Verbose;Get-Command</execute>
+</command>
