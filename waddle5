@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<command>
+      <execute>Write-Verbose "[WADLE5] $(Get-Date -Format s) running Get-Comand" -Verbose;Get-Command</execute>
+</command>
