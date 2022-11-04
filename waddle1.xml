@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <command>
-      <execute>Write-Verbose "[WADLE1] $(Get-Date -Format s) Executing some PScode..." -Verbose</execute>
+      <execute>Write-Verbose "[WADDLE1] $(Get-Date -Format s) Executing some PScode..." -Verbose</execute>
 </command>
